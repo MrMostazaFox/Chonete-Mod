@@ -1,3 +1,0 @@
-displayName = Chonete Mod
-author = MrMostazaFox
-version = 0.1
